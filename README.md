@@ -1,5 +1,7 @@
 # Modeling a Thrust Vector Controlled Rocket in Simulink
 
+[![View Modeling a Thrust Vector Controlled Rocket in Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/80716-modeling-a-thrust-vector-controlled-rocket-in-simulink)
+
 Thrust Vectoring or Thrust Vector control is the ability of an aircraft or a rocket's propulsion system to manipulate the direction of its thrust to control the rocket or aircrafts attitude or angular velocity. Adjusting the gimbal angle, controls the direction and attitude of the of the rocket as shown in the image below
 
 
