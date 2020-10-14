@@ -10,7 +10,7 @@ Thrust Vectoring or Thrust Vector control is the ability of an aircraft or a roc
 <a href="https://commons.wikimedia.org/wiki/File:En_Gimbaled_thrust_diagram.svg" title="via Wikimedia Commons">Gimbaled_thrust_diagram.gif:Brian0918 at en.wikipediaderivative work: Titimaster</a> / Public domain
 
 
-Code in this repository is discussed in this BPS.Space YouTube video.
+Code in this repository is discussed in this BPS.Space YouTube video shown below.[![](http://img.youtube.com/vi/nwgd1CV__rs/0.jpg)](http://www.youtube.com/watch?v=nwgd1CV__rs "")
 
 To use the files,
 
