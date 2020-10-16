@@ -22,3 +22,8 @@ To use the files,
 - Click the appropriate hyperlink to choose between a simple Aerospace Blockset or Simscape implementation
 
 - Move the Gimbal angle slider to see the effect of different gimbal angles on the trajectory of the rocket. 
+
+
+
+
+[Learn how to get MATLAB and Simulink](https://www.mathworks.com/products/get-matlab.html)
